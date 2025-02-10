@@ -13,7 +13,7 @@ void main(){
   print('Jorge Toledo Mat: 22308051281106');
   print('llamar a la funcion saludar ');
   saludar();
-  print('llamar a la funcio escribirNombre');
+  print('llamar a la funcion escribirNombre');
   escribirNombre();
 
 }
